@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709297583067",
+    "project_id": "mobilis-26f97",
+    "storage_bucket": "mobilis-26f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709297583067:android:29d9c906610c08bbcaadfe",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqtHXq9NKHgrfzUfZrKBtuhHp0rDneb8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
